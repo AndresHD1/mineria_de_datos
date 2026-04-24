@@ -1,2 +1,2 @@
 # mineria_de_datos
-Trabajo conjunto con mi compañero mateo
+Trabajo conjunto con mi compañero mateo carrasco
